@@ -1,6 +1,6 @@
 # recommend-system
-一个基于文本挖掘的明星代言推荐系统
-*几个文件的注释*  
+一个基于文本挖掘的明星代言推荐系统  
+***几个文件的注释***  
 [image](https://github.com/jc-wow/recommend-system/tree/master/image) 百度百科中网友印象图片  
 [fenci.txt](https://github.com/jc-wow/recommend-system/blob/master/fenci.txt) 微博短文本的分词文件(jieba分词)  
 [label.txt](https://github.com/jc-wow/recommend-system/blob/master/label.txt) 用户标签的json文件  
