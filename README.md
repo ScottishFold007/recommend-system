@@ -10,4 +10,4 @@
 [rsc.ipynb](https://github.com/jc-wow/recommend-system/blob/master/rsc.ipynb) 推荐系统实现的ipynb文件  
 [uservecs.txt](https://github.com/jc-wow/recommend-system/blob/master/uservecs.txt) 用户标签的词向量  
 [crawl.py](https://github.com/jc-wow/recommend-system/blob/master/crawl.py) 单线程微博爬虫
-[vec_value](https://github.com/jc-wow/recommend-system/blob/master/vec_value.txt）用户端计算成的400维词向量
+[vec_value.txt](https://github.com/jc-wow/recommend-system/blob/master/vec_value.txt）用户端计算成的400维词向量
